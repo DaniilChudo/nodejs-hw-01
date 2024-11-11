@@ -21,4 +21,4 @@ const generateContacts = async (number) => {
   }
 };
 
-generateContacts(10);
+generateContacts(3);
